@@ -1,0 +1,8 @@
+flask==0.10.1
+python-dateutil==1.5
+flask-login==0.2.7
+flask-admin==1.0.7
+wtforms==1.0.5
+flask-sqlalchemy==1.0
+python-ldap==2.4.13
+flask-socketio==0.3.4
